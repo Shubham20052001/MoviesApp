@@ -1,16 +1,21 @@
-# movies
 
-A new Flutter application.
+# Movies App
 
-## Getting Started
+Movies app is an encyclopedia of movies, series, books etc. A complete guide to entertainment related information.
 
-This project is a starting point for a Flutter application.
+Download the apk from [here.](https://drive.google.com/file/d/1cz-2dqvsPST7kDns293bxi-l87EdzDQG/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Phone-Screenshot-2.png](https://i.postimg.cc/Jzf1TxN5/Phone-Screenshot-2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Phone-Screenshot-3.png](https://i.postimg.cc/MTr3DPRW/Phone-Screenshot-3.png)
+
+![Phone-Screenshot-1.png](https://i.postimg.cc/MHQvskyY/Phone-Screenshot-1.png)
+  
+## What I learnt?
+
+- JSON parsing
+- API integration
+- PODO making
+- Gained knowledge about new widgets
