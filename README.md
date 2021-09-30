@@ -7,7 +7,7 @@ Download the apk from [here.](https://drive.google.com/file/d/1cz-2dqvsPST7kDns2
 
 ## Screenshots
 
-![Phone-Screenshot-2.png](https://i.postimg.cc/Jzf1TxN5/Phone-Screenshot-2.png)
+<!-- ![Phone-Screenshot-2.png](https://i.postimg.cc/Jzf1TxN5/Phone-Screenshot-2.png) -->
 
 ![Phone-Screenshot-3.png](https://i.postimg.cc/MTr3DPRW/Phone-Screenshot-3.png)
 
